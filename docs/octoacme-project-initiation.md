@@ -25,13 +25,22 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Objective / Goal (SMART):
 - Success metrics:
 - Primary stakeholders:
+- Proposed team / roles (see [OctoAcme Personas](octoacme-roles-and-personas.md)):
+  - Project Manager:
+  - Product Manager:
+  - Developers:
+  - QA Lead:
+  - Security Champion:
+  - Operations Manager:
+  - UX Designer:
+  - Customer Support:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] All key roles identified: Project Manager, Product Manager, Developers, QA Lead, Security Champion, Operations Manager, UX Designer, Customer Support
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
